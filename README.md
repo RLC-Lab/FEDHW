@@ -1,6 +1,6 @@
 # Benchmaking and Optimizing Federated Learning with Hardware-related Metrics
 
-**This is used for double-blind review.**
+**This is the source code of the paper: "Benchmarking and Optimizing Federated Learning with Hardware-related Metrics", BMVC 2024.**
 
 **FEDHW** is a optimization framework that can optimize FL algorithms in energy-constrained or latency-constrained situations with hardware-related metrics. In this project, we use the **FedAvg** and the **FedOpt** as the baseline algorithm, and implement them in **Python 3.11**.
 
